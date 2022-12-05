@@ -1,8 +1,8 @@
 import React from 'react';
-import HeaderComponent from './HeaderComponent.js';
-import MainComponent from './MainComponent.js';
-import FooterComponent from './FooterComponent.js';
-import ModalComponent from './ModalComponent.js';
+import HeaderComponent from './HeaderComponent';
+import MainComponent from './MainComponent';
+import FooterComponent from './FooterComponent';
+import ModalComponent from './ModalComponent';
 
 function WrapComponent(){
   return (
